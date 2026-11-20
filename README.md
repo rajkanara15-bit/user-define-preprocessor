@@ -92,7 +92,7 @@ This project helped me understand:
 
 ## 👨‍💻 Author
 
-**Your Name**
+Raj kanara
 
 ---
 
